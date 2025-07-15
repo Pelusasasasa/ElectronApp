@@ -1,0 +1,19 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Mi apliacion de electron",
+  "keywords": [
+    "Electron.js",
+    "Tutorial"
+  ],
+  "license": "MIT",
+  "author": "PelusaAl",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^37.2.2"
+  }
+}
